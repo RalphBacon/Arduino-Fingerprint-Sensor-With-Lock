@@ -1,8 +1,8 @@
 # Arduino Fingerprint Sensor With Lock
-### Using one of these two fingerprint readers is _easy_ with an Arduino
+#### Using one of these two fingerprint readers is _easy_ with an Arduino
 
 ## See YouTube video https:///www.YouTube.com/ralphbacon video #146
-(Direct link to video: )
+(Direct link to video:https://youtu.be/freb2Sq-c_k)
 
 ### LCSC Electronics - More Asian Brands, Lower Prices, 4 Hours Ready for Shipping  
 #### China's leading Electronics Components source - 113 Authorized Brands, 174 International Brands, 555 Made in Asia Brands  
