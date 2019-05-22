@@ -32,24 +32,28 @@ The Adafruit fingerprint library (also snapshot in my gitHub):
 https://github.com/adafruit/Adafruit-Fingerprint-Sensor-Library  
 
 R307 fingerprint reader as used in the demo:  
-https://www.banggood.com/R307-Optical-Fingerprint-Reader-Module-Sensor-Finger-Detection-Function-p-1258914.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
+http://bit.ly/BanggoodR307
 
 R307 fingerprint sensor also available from Amazon, not bad prices:  
 UK: https://amzn.to/2Eq0J8F  
 USA: https://amzn.to/2VDrhJu
 
 Adafruit-like (possibly the same) fingerprint reader, as used in the demo:  
-https://www.banggood.com/Fingerprint-Reader-Identification-Module-Fingerprint-Lock-Optical-Strip-Sensing-for-Arduino-Fingerpr-p-1343470.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
+http://bit.ly/BanggoodAltSensor
 
 The official Adafruit fingerprint reader (currently out of stock (May 2019) but will doubtless return):  
 https://www.adafruit.com/product/751  
 
+AliExpress version of the R307:  
+http://s.click.aliexpress.com/e/AW5PLYc
+
 Small drawer lock, as used in the demo, 12v 400mA (approx):  
-https://www.banggood.com/12V-DC-Cabinet-Door-Drawer-Electric-Lock-Assembly-Solenoid-Lock-27x29x18mm-p-1048590.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
+http://bit.ly/BangoodDrawerLock
 
 Electric door lock example (not used in the demo):  
-https://www.banggood.com/Door-Electric-Strike-Lock-NO-Narrow-type-Electronic-Control-12V-DC-p-1040055.html
+http://bit.ly/BanggoodFullDoorLock
 
+++++
 
 If you like this video please give it a thumbs up, share it and if you're not already subscribed please consider doing so and joining me on my Arduinite journey
 
