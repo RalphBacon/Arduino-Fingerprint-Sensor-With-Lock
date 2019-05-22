@@ -17,6 +17,11 @@ You can do _everything_ on the Arduino, of course, but it makes sense to use the
 #### Suitable Arduino Uno?
 My original attempts at getting my R307 fingerprint reader working (over two years ago) came to nothing. Now, thanks to some comments in the Adafruit article I figured I needed an Arduino UNO with a "proper" USB to Serial converter, such as the µController found on the original Arduino Uno (an ATMega16U2). Luckily, I had an old, possibly cloned, version of that board and it all sprang into life, so very easily! So check whether your UNO uses a CH340G (no go) FTDI (might work) or a 16U2 (best solution).
 
+```
+Sneak update: I also used a standalone Serial-to-USB converter that had a CP2102 chip on it. 
+Worked like a dream. Just goes to show you can't always tell what will work and what won't.
+```
+
 #### Door locks
 I didn't amend the Adafruit demo sketch for the Arduino to read the fingerprints, other than to power up the door lock if it found a matching fingerprint. There are dozens of different, 12v door locks out there - check what you need and how to fix it before buying one! Also, bear in mind that these locks take quite some current (the small one I used needs just under 400mA).
 
