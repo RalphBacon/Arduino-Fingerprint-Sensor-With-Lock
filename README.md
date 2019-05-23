@@ -58,6 +58,11 @@ http://bit.ly/BangoodDrawerLock
 Electric door lock example (not used in the demo):  
 http://bit.ly/BanggoodFullDoorLock
 
+#### BREAKING NEWS - SPECIAL OFFER
+Banggood have a special offer on the Nano V3 for just $2.09 each! Until 31st May 2019. Free Shipping!    
+Geekcreit ATmega328P Nano V3 Controller Board Compatible Arduino Improved Version Module  
+http://bit.ly/NanoV3Offer
+
 ++++
 
 If you like this video please give it a thumbs up, share it and if you're not already subscribed please consider doing so and joining me on my Arduinite journey
