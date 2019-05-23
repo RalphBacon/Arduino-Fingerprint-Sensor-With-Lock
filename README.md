@@ -17,6 +17,9 @@ You can do _everything_ on the Arduino, of course, but it makes sense to use the
 #### Suitable Arduino Uno?
 My original attempts at getting my R307 fingerprint reader working (over two years ago) came to nothing. Now, thanks to some comments in the Adafruit article I figured I needed an Arduino UNO with a "proper" USB to Serial converter, such as the µController found on the original Arduino Uno (an ATMega16U2). Luckily, I had an old, possibly cloned, version of that board and it all sprang into life, so very easily! So check whether your UNO uses a CH340G (no go) FTDI (might work) or a 16U2 (best solution).
 
+#### Like this one: Geekcreit® Arduino Compatible UNO R3 ATmega16U2 AVR USB Development Main Board
+On offer until May 31st 2019 http://bit.ly/ArduinoV316U2  
+
 ```
 Sneak update: I also used a standalone Serial-to-USB converter that had a CP2102 chip on it. 
 Worked like a dream. Just goes to show you can't always tell what will work and what won't.
@@ -57,6 +60,9 @@ http://bit.ly/BangoodDrawerLock
 
 Electric door lock example (not used in the demo):  
 http://bit.ly/BanggoodFullDoorLock
+
+Geekcreit® Arduino Compatible UNO R3 **ATmega16U2** AVR USB Development Main Board On offer until May 31st 2019  
+http://bit.ly/ArduinoV316U2
 
 #### BREAKING NEWS - SPECIAL OFFER
 Banggood have a special offer on the Nano V3 for just $2.09 each! Until 31st May 2019. Free Shipping!    
